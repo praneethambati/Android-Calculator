@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_tableLayout"
+        android:title="@string/tableLayout"
+        />
+    <item android:id="@+id/action_linearLayout"
+        android:title="@string/linearLayout"
+        />
+
+    <item android:id="@+id/action_relativeLayout"
+        android:title="@string/relativeLayout"
+        />
+</menu>
