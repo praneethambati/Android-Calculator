@@ -36,6 +36,10 @@ public class MainActivity extends AppCompatActivity {
 
             setContentView(R.layout.activity_main_relative);
         }
+        else if (item.getItemId() == R.id.action_scientificCalculator) {
+
+            setContentView(R.layout.activity_scientific_calculator);
+        }
         return super.onOptionsItemSelected(item);
     }
 }

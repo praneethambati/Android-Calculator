@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Calculator</string>
-    <string name="tableLayout">TableLayout</string>
-    <string name="linearLayout">LinearLayout</string>
-    <string name="relativeLayout">RelativeLayout</string>
+    <string name="tableLayout">Table Layout</string>
+    <string name="linearLayout">Linear Layout</string>
+    <string name="relativeLayout">Relative Layout</string>
+    <string name="scientificLayout">Scientific Calculator</string>
 </resources>

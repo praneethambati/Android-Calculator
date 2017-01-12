@@ -10,4 +10,7 @@
     <item android:id="@+id/action_relativeLayout"
         android:title="@string/relativeLayout"
         />
+    <item android:id="@+id/action_scientificCalculator"
+        android:title="@string/scientificLayout"
+        />
 </menu>
